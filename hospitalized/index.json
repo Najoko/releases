@@ -1,0 +1,5 @@
+{
+  "format": "njsigned1",
+  "payload": "{\n \"game\": \"hospitalized\",\n \"versions\": [\n  {\n   \"date\": \"2026-11-05\",\n   \"file\": \"hospitalized-0.1.4.njup\",\n   \"from\": \"0.1.3\",\n   \"sha256\": \"b6b21ddf7149d2f36d3ebb0cc2def7104b2c47536c0071f5173a6cd5708393c5\",\n   \"size\": 832188,\n   \"tag\": \"hospitalized-v0.1.4\",\n   \"version\": \"0.1.4\"\n  }\n ]\n}",
+  "signature": "3ZK6ggM2NzzvlbSacvgwDwJ2g1ni5uvEPw/zVJTCYHcVWy7oVLB9D0ctvbilVcvws3IhzcW1CSa1UK+FRh2pIiR7Pzm8D2RZnPaB00j1MVgFQcFvj3l8eSZ0Tftvygem+z88DV7o4faVSLMjn6H9tXYYv00XptrOEliIfoCGLp6RZYNZoUNiEcV2lfxNfAbpufrO3PG3mg8tTLAuEEIvXrKzZdY0ige5coErysH2NwdXn1Xsym1Vkf+0YsFjGQxM33wcF8MUPMVNiybtDjh9mpFQbRF2CliNsrYSiYSJbpb7dp8VWnCn++IOx3+Xit3oMvZpYOYhVVEv9J4hHp5bryD/XS5uK2tAsOGrkermd6CZjJYfO6gG8w3j/HChmh3URzexIluZaqzDHxb0md36QANtNBRvxjWMqQPQT4DYl5yy52Zf8R4OX4z8kcxXyNmEAF7KESVmZSZqhJRdl//QsILIm46h32A/zloufQwYeT3MKC43cyWMS3BQzIw5vDse"
+}
